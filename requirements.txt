@@ -1,0 +1,7 @@
+streamlit
+pandas
+google-generativeai
+streamlit-lightweight-charts
+python-dotenv
+streamlit-extras
+ast
