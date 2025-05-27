@@ -1,4 +1,5 @@
 # TSLA Dashboard
+![image](https://github.com/user-attachments/assets/c85f811a-b61f-4f6f-993b-7e61515025cb)
 
 A comprehensive dashboard for analyzing TSLA stock data using Streamlit and TradingView's Lightweight Charts.
 
@@ -37,10 +38,17 @@ streamlit run app.py
    - Use the mouse wheel to zoom in/out
    - Click and drag to pan the chart
 
+![image](https://github.com/user-attachments/assets/33bfaefc-ec26-4807-92a5-c5eb5c8ef040)
+---
+
 2. **AI Chatbot Tab**
    - Ask questions about the TSLA data
    - Get insights about price movements, trends, and patterns
    - Analyze trading signals and market conditions
+  
+![image](https://github.com/user-attachments/assets/65740492-3510-483c-b96e-e2f5fe2ce550)
+![image](https://github.com/user-attachments/assets/d9cf4352-abb1-40bf-848b-1715c221cc9e)
+
 
 ## Data Format
 
