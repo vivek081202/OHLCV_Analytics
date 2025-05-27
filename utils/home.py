@@ -2,7 +2,7 @@
 import streamlit as st
 from streamlit_extras.colored_header import colored_header
 
-st.title("graph TSLA Intelligent Visualization")
+st.title("TSLA Intelligent Visualization")
 colored_header("Welcome to the TSLA Intelligent Visualization Platform", description="Explore TSLA stock like never before with Smart Overlays, AI Chatbot, and Dynamic Charts.", color_name="blue-70")
 
 st.image("../assets/stockimg.jpg")
